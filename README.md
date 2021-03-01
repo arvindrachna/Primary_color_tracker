@@ -1,5 +1,5 @@
 # Color tracker
-The python code detects and tracks any object of primary color(red, green or blue).
+The python code detects and tracks any object of primary color(red, green or blue). The ball_left15.avi and ball_right15.avi are rectified stereo videos.
 
 
 Title

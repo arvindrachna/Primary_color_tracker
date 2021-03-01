@@ -1,4 +1,7 @@
 # Color tracker
+The python code detects and tracks any object of primary color(red, green or blue).
+
+
 Title
 
 AN EFFICIENT COLOR-BASED OBJECT DETECTION AND TRACKING IN VIDEOS
